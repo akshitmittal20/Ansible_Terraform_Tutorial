@@ -1,5 +1,5 @@
 # Ansible_Terraform_Tutorial
-A collection of Documents to Learn All the essential Devoops Tools for a developer. Including- Terraform IaC provisioning, Ansible Configuration via playbooks from Basic TO Advance, Docker Containerization, Kubernetes Container Orchestration
+A collection of Documents to Learn All the essential Devops Tools for a developer. Including- Terraform IaC provisioning, Ansible Configuration via playbooks from Basic TO Advance, Docker Containerization, Kubernetes Container Orchestration
 
 # Technlogies Covered
 - Terraform:
